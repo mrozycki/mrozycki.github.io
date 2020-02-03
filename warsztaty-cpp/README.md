@@ -1,4 +1,13 @@
 # Warsztaty C++
+## Po zajęciach 1 lutego 2020r.
+* Zadania do rozwiązania [tutaj](https://www.dropbox.com/s/w0sxn0xt58m79wt/Zadania-2020-02-01.pdf?dl=0)
+* Kod:
+    * [smile.cpp](src/smile.cpp)
+    * [white_square.cpp](src/white_square.cpp)
+    * [black_square.cpp](src/black_square.cpp)
+    * [squares.cpp](src/squares.cpp)
+* Kolejny termin do ustalenia
+
 ## Przygotowanie
 
 1. Jeżeli zamierzasz korzystać z laptopa w pracowni,
